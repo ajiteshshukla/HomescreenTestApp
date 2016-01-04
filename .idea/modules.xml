@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomescreenTestApp.iml" filepath="$PROJECT_DIR$/HomescreenTestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homescreentestapp/homescreentestapp.iml" filepath="$PROJECT_DIR$/homescreentestapp/homescreentestapp.iml" />
+    </modules>
+  </component>
+</project>
